@@ -1,6 +1,6 @@
 const min = 1000;
 const max = 1500;
-const consulting_rom = ['Consultorio 1','Consultorio 2','Consultorio 3','Consultorio 4'];
+const consulting_room = ['Consultorio 1','Consultorio 2','Consultorio 3','Consultorio 4'];
 const  pacientes = {paciente1:'María Cano', paciente2: 'Camilo Antonio', paciente3: 'Juana Camargo', paciente4: 'Miguel Moreno'};
 
 
